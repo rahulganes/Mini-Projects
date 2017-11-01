@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml-stylesheet type="text/css" href="css/news1.css"?-->
+<?xml-stylesheet type="text/xsl" href="News.xsl" ?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="News.xsd">
+  <head>
+    <title>NSS Activities</title>
+  </head>
+
+
+  <body>
+
+  <news>
+    <headline>
+      Recruitment
+    </headline>
+    <byline>
+      <bytag>By Gokul Karthik, NSS IT head</bytag>
+    </byline>
+    <dateline>
+      <location>NSS Cell, TCE</location>
+      <date>1 August 2017</date>
+    </dateline>
+    <br>
+      --------------------------------------------------------------------------------------------
+    </br>
+  </news>
+
+  <news>
+    <headline>
+      Guest Lecture
+    </headline>
+    <byline>
+      <bytag>By Hariharan, ex-NSS member</bytag>
+    </byline>
+    <dateline>
+      <location>KS Audi, TCE</location>
+      <date>7 August 2017</date>
+    </dateline>
+    <br>
+      --------------------------------------------------------------------------------------------
+    </br>
+  </news>
+
+  <news>
+    <headline>
+      Road Safety awareness rally
+    </headline>
+    <byline>
+      <bytag>By Gokul Karthik, NSS IT head</bytag>
+    </byline>
+    <dateline>
+      <location>Main Building, TCE</location>
+      <date>10 August 2017</date>
+    </dateline>
+    <br>
+      --------------------------------------------------------------------------------------------
+    </br>
+  </news>
+
+
+  </body>
+</page>
