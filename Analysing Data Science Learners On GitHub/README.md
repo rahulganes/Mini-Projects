@@ -1,1 +1,1 @@
-The .ipynb file contains the python code for data extraction from GitHub and analyzing the social network of data science learners on GitHub.
+In this project I have analyzed the social network of data science learners in GitHub. I have explained about this at https://medium.com/@gokulkarthikk/github-social-network-analysis-28f72b2f5e3
